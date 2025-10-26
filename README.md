@@ -6,7 +6,7 @@
 
 ## 📫 How to reach me
 - 📧 Email: dhruvchetiwal@gmail.com  
-- 🔗 <a href="https://www.linkedin.com/in/dhruv-chetiwal-197809371/" target="_blank">LinkedIn</a>
+- 🔗 [LinkedIn](https://www.linkedin.com/in/dhruv-chetiwal-197809371/)
 
 ---
 
