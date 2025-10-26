@@ -45,4 +45,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42" />
 </div>
-<p align="end" fontSize="2px">Dhruv Chetiwal</p>
